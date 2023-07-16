@@ -13,4 +13,4 @@
 
 Any text written like this is a paragraph.
 
-This is another paragraph.
+This is another paragraph. *This part is going to be in italics*. **This part is going to be in bold**.
