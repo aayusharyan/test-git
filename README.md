@@ -20,3 +20,5 @@ This is another paragraph. *This part is going to be in italics*. **This part is
 # Link:
 
 [This is the website](https://yush.dev)
+
+![Markdown Image](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
